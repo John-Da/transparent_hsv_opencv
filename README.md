@@ -4,5 +4,6 @@
 
 > [!Note]
 > - Run the program for (10 sec) to capture the background
+> - Lighting also plays a crucial role in the program
 
 ### 📌Output
